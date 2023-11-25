@@ -1,8 +1,8 @@
-package top.it6666.factorymethodpattern;
+package top.it6666.factorymethodpattern.example01;
 
-import top.it6666.factorymethodpattern.factory.Dialog;
-import top.it6666.factorymethodpattern.factory.HtmlDialog;
-import top.it6666.factorymethodpattern.factory.WindowsDialog;
+import top.it6666.factorymethodpattern.example01.factory.Dialog;
+import top.it6666.factorymethodpattern.example01.factory.HtmlDialog;
+import top.it6666.factorymethodpattern.example01.factory.WindowsDialog;
 
 /**
  * @author BNTang

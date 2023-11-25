@@ -1,4 +1,4 @@
-package top.it6666.factorymethodpattern.buttons;
+package top.it6666.factorymethodpattern.example01.buttons;
 
 /**
  * @author BNTang

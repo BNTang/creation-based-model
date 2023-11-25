@@ -1,7 +1,7 @@
-package top.it6666.factorymethodpattern.factory;
+package top.it6666.factorymethodpattern.example01.factory;
 
-import top.it6666.factorymethodpattern.buttons.Button;
-import top.it6666.factorymethodpattern.buttons.WindowsButton;
+import top.it6666.factorymethodpattern.example01.buttons.Button;
+import top.it6666.factorymethodpattern.example01.buttons.WindowsButton;
 
 /**
  * @author BNTang
